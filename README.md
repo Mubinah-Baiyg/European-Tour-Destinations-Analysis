@@ -15,3 +15,9 @@ This project is intended for:
 Data Analysts: Professionals looking to enhance their data analysis skills and methodologies.
 Business Intelligence Professionals: Individuals aiming to use data to drive business strategies.
 Students: Learners interested in practical applications of data analysis in real-world scenarios.
+
+Liabraries used in this analysis
+pandas
+pyspan
+matplotlib
+seaborn
