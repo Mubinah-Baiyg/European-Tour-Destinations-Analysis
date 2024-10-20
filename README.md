@@ -21,3 +21,5 @@ pandas
 pyspan
 matplotlib
 seaborn
+
+This Analysis ends with two univariate graphical analysis & two Bivariate Graphical analysis to highlight the cost standards of living European Countries
